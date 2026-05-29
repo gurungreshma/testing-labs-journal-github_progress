@@ -1,4 +1,5 @@
 # Part 1 – Hardware vs Software
+NGFJFJHMNBMNHMJH,KHJGMHFHFHGFFHJJ
 
 ## Explain Hardware
 Write **at least 50 words** explaining what hardware is.
